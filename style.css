@@ -1,0 +1,26 @@
+
+
+ hr{
+   border-style: dotted none none none;
+   width: 50%;
+ }
+
+ .Hobbies{
+
+   background-color: red;
+
+ }
+ .body{
+   position: relative;
+   right: 1px;
+   bottom: 13.5px;
+   background-color: #fce38a;
+ }
+
+.doop{
+  background-color: #fce38a;
+}
+
+.emptyspace{
+  background-color: #fce38a;
+}
